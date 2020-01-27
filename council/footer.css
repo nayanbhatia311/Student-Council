@@ -46,19 +46,19 @@ a {
           flex-flow: row wrap;
 }
 
-main {
-  -webkit-box-flex: 1;
-          flex: 1 1 auto;
-  display: -webkit-box;
-  display: flex;
-  -webkit-box-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-          justify-content: center;
-  font: 10em "Oswald", sans-serif;
-  color: #9b9b9b;
-  line-height: 1;
-}
+  main {
+    -webkit-box-flex: 1;
+            flex: 1 1 auto;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+            justify-content: center;
+    font: 10em "Oswald", sans-serif;
+    color: #FFFFFF;
+    line-height: 1;
+  }
 
 footer {
   background: #2a2c30;

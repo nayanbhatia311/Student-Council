@@ -7,8 +7,25 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="team.css" />
 		<noscript><link rel="stylesheet" href="team2.css" /></noscript>
+		<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat:400,700'><link rel="stylesheet" href="./header.css">
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans|Oswald:300' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+
+<!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
+<link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+
+
+<!-- Main Stylesheet File -->
+<link href="css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="./footer.css">
 	</head>
 	<body class="landing is-preload">
+		<?php include 'header.html';?>
+<br>
 
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
@@ -17,16 +34,7 @@
 					
 
 				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<h2>Meet The Team</h2>
-							
-							
-						</div>
-						
-					</section>
-
-				
+		
 
 				<!-- Two -->
 					<section id="two" class="wrapper alt style2">
@@ -86,7 +94,8 @@
 					</section>
 
 				
-
+					
+					<?php include 'footer.html';?>
 		<!-- Scripts -->
 			<script src="js/jquery.min.js"></script>
 			<script src="js/jquery.scrollex.min.js"></script>
@@ -96,5 +105,10 @@
 			<script src="js/util.js"></script>
 			<script src="js/main.js"></script>
 
+
+
+			
+			
+<script  src="./footer.js"></script>
 	</body>
 </html>
