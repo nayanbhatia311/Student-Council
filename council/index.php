@@ -22,10 +22,10 @@
 </head> 
 <body>
   
+  
+  
+  
   <?php include 'header.html';?>
-
-
-
 
 <!-- Main division -->
   <div class="container">  
@@ -44,76 +44,76 @@
 <div class="container">
   <div class="row">
 
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-12 col-lg-4">
       <div class="feature-block">
         <img src="img/" alt="img" class="img-fluid">
-        <h4>creative design</h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+        <h4>Shreya Singh</h4>
+        <p>General Secretary</p>
       </div>
     </div>
 
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-12 col-lg-4">
       <div class="feature-block">
         <img src="img/" alt="img" class="img-fluid">
-        <h4>Retina Ready</h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+        <h4>Vyom Binani</h4>
+        <p>Joint General Secretary</p>
       </div>
     </div>
 
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-12 col-lg-4">
       <div class="feature-block">
         <img src="img/" alt="img" class="img-fluid">
-        <h4>easy to use</h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+        <h4>Tanmay Kotian</h4>
+        <p>Cultural Secretary</p>
       </div>
     </div>
 
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-12 col-lg-4">
       <div class="feature-block">
         <img src="img/" alt="img" class="img-fluid">
-        <h4>Free Updates</h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+        <h4>Deep Shah</h4>
+        <p>Sports Secretary</p>
       </div>
     </div>
 
 
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-12 col-lg-4">
       <div class="feature-block">
         <img src="img/" alt="img" class="img-fluid">
-        <h4>Free Updates</h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+        <h4>Tirthesh Kode</h4>
+        <p>Chief Executive Officer</p>
       </div>
     </div>
     
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-12 col-lg-4">
       <div class="feature-block">
         <img src="img/" alt="img" class="img-fluid">
-        <h4>Free Updates</h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+        <h4>Aarjav Sanghavi</h4>
+        <p>Treasurer</p>
       </div>
     </div>
 
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-12 col-lg-4">
       <div class="feature-block">
         <img src="img/" alt="img" class="img-fluid">
-        <h4>App store support</h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+        <h4>Swati Saha</h4>
+        <p>Public Relations Officer</p>
       </div>
     </div>
 
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-12 col-lg-4">
       <div class="feature-block">
         <img src="img/" alt="img" class="img-fluid">
-        <h4>Perfect Pixel</h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+        <h4>Urmi Gori</h4>
+        <p>Ladies Representative</p>
       </div>
     </div>
 
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-12 col-lg-4">
       <div class="feature-block">
         <img src="img/" alt="img" class="img-fluid">
-        <h4>clean codes</h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+        <h4>Pradyanesh Parabkar</h4>
+        <p>NSS Head</p>
       </div>
     </div>
 
