@@ -50,49 +50,49 @@
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="images/sponsors/1.png" class="img-fluid" alt="">
+              <img src="images/sponsors/1.png" class="imgsize" alt="">
             </div>
           </div>
           
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="images/sponsors/2.png" class="img-fluid" alt="">
+              <img src="images/sponsors/2.png" class="imgsize" alt="">
             </div>
           </div>
         
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="images/sponsors/3.png" class="img-fluid" alt="">
+              <img src="images/sponsors/3.png" class="imgsize" alt="">
             </div>
           </div>
           
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="images/sponsors/4.png" class="img-fluid" alt="">
+              <img src="images/sponsors/4.png" class="imgsize" alt="">
             </div>
           </div>
           
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="images/sponsors/5.png" class="img-fluid" alt="">
+              <img src="images/sponsors/5.png" class="imgsize" alt="">
             </div>
           </div>
         
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="images/sponsors/6.png" class="img-fluid" alt="">
+              <img src="images/sponsors/6.png" class="imgsize" alt="">
             </div>
           </div>
           
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="images/sponsors/7.png" class="img-fluid" alt="">
+              <img src="images/sponsors/7.png" class="imgsize" alt="">
             </div>
           </div>
           
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="images/sponsors/8.png" class="img-fluid" alt="">
+              <img src="images/sponsors/8.png" class="imgsize" alt="">
             </div>
           </div>
 

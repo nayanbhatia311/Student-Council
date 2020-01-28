@@ -54,7 +54,7 @@ body {
 }
 
 #supporters .supporter-logo {
-  padding: 30px;
+  /* padding: 30px; */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -72,10 +72,16 @@ body {
 }
 
 #supporters .supporter-logo:hover img {
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2);
+  -webkit-transform: scale(1.09);
+  transform: scale(1.09);
 }
 
 #supporters img {
   transition: all 0.4s ease-in-out;
+}
+
+.imgsize {
+  width: 12vw;
+  height: 12vh;
+  min-width: 100%;
 }
