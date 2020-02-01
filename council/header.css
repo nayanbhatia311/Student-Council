@@ -27,8 +27,9 @@ a {
 
 
 .logo {
-	margin-left: 5px;
+	margin: 0;
 	font-size: 1.45em;
+	clear: left;
 }
 
 .main-nav {
@@ -36,10 +37,14 @@ a {
 
 }
 
-.main-nav a {
+.link {
 	padding: 10px 15px;
 	text-transform: uppercase;
 	text-align: center;
+	/* align-self: center; */
+	/* align-content: center; */
+	/* align-items: center; */
+	/* float: initial; */
 	display: block;
 }
 
@@ -53,7 +58,7 @@ a {
 }
 
 
-
+  
 .header {
 	padding-top: .5em;
 	padding-bottom: .5em;
