@@ -27,7 +27,7 @@ a {
 
 
 .logo {
-	margin: 0;
+	margin-left: 5px;
 	font-size: 1.45em;
 }
 
@@ -35,7 +35,7 @@ a {
 	margin-top: 5px;
 
 }
-.logo a,
+
 .main-nav a {
 	padding: 10px 15px;
 	text-transform: uppercase;

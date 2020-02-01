@@ -64,8 +64,8 @@ body {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  border-right: 1px solid #e0e5fa;
-  border-bottom: 1px solid #e0e5fa;
+  border-right: 2px solid #e0e5fa;
+  border-bottom: 2px solid #e0e5fa;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
   height: 160px;
@@ -85,3 +85,9 @@ body {
   height: 12vh;
   min-width: 100%;
 }
+
+
+/* .widt {
+  height: 200px;
+  width: 200px;
+} */

@@ -46,51 +46,51 @@
           <h2>Sponsors</h2>
         </div>
 
-        <div class="row no-gutters supporters-wrap clearfix">
+        <div class="row no-gutters pad supporters-wrap clearfix">
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-4 col-xs-6 widt">
             <div class="supporter-logo">
               <img src="images/sponsors/1.png" class="imgsize" alt="">
             </div>
           </div>
           
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-4 col-xs-6 widt">
             <div class="supporter-logo">
               <img src="images/sponsors/2.png" class="imgsize" alt="">
             </div>
           </div>
         
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-4 col-xs-6 widt">
             <div class="supporter-logo">
               <img src="images/sponsors/3.png" class="imgsize" alt="">
             </div>
           </div>
           
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-4 col-xs-6 widt">
             <div class="supporter-logo">
               <img src="images/sponsors/4.png" class="imgsize" alt="">
             </div>
           </div>
           
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-4 col-xs-6 widt">
             <div class="supporter-logo">
               <img src="images/sponsors/5.png" class="imgsize" alt="">
             </div>
           </div>
         
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-4 col-xs-6widt">
             <div class="supporter-logo">
               <img src="images/sponsors/6.png" class="imgsize" alt="">
             </div>
           </div>
           
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-4 col-xs-6 widt">
             <div class="supporter-logo">
               <img src="images/sponsors/7.png" class="imgsize" alt="">
             </div>
           </div>
           
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-4 col-xs-6 widt">
             <div class="supporter-logo">
               <img src="images/sponsors/8.png" class="imgsize" alt="">
             </div>

@@ -2,6 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
   
   
   <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat:400,700'><link rel="stylesheet" href="./header.css">
@@ -12,6 +13,8 @@
   
   <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 
 
 
@@ -25,139 +28,104 @@
 <body>
   
   <?php include 'header.html';?>
-
   <br>
+  
+<div class="maindiv" id="maindiv" >
+  <!-- <div class="row">
 
-  <div class="section-header">
-          <h2>Sponsors</h2>
-        </div>
+  <div class="column">
+    <div class="content" value="1">
+      <img src="images/team/core.jpg" alt="Mountains" style="width:100%">
+      <div class="ab ax c eo ep eq k v">
+      <div class="ar bi er es v">
+        <div class="bc et">7</div>
+        <div class="bc cf eu">Mar</div>
+        <div class="bc eu ev">Onwards</div>
+      </div>
+      <div class="ar er ew v">
+        <div class="al b bc cf ex ey">Road To Ultra India</div>
+        <div class="b bc ev ex ey ez">Multiple Venues</div>
+        <div class="ap bc ez">Music Shows</div>
+        <div class="bc ev ez">Rs. 2500 onwards </div>
+      </div>
+      </div>
+    </div>
+  </div>
 
-  <div class="container-left">
-  <img src="images/team/core.jpg" alt="Notebook" style="width:100%;">
-  <div class="content">
-    <h1>Heading</h1>
-    <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
+  <div class="column">
+    <div class="content" value="2">
+      <img src="images/team/core.jpg" alt="Mountains" style="width:100%">
+    <div class="ab ax c eo ep eq k v">
+      <div class="ar bi er es v">
+        <div class="bc et">7</div>
+        <div class="bc cf eu">Mar</div>
+        <div class="bc eu ev">Onwards</div>
+      </div><div class="ar er ew v">
+        <div class="al b bc cf ex ey">Road To Ultra India</div>
+        <div class="b bc ev ex ey ez">Multiple Venues</div>
+        <div class="ap bc ez">Music Shows</div>
+        <div class="bc ev ez">Rs. 2500 onwards </div>
+      </div>
+    </div>
   </div>
 </div>
 
 
-<div class="container-left">
-  <img src="images/team/core.jpg" alt="Notebook" style="width:100%;">
-  <div class="content">
-    <h1>Heading</h1>
-    <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
+  <div class="column">
+    <div class="content" value="3">
+      <img src="images/team/core.jpg" alt="Mountains" style="width:100%">
+    <div class="ab ax c eo ep eq k v">
+      <div class="ar bi er es v">
+        <div class="bc et">7</div>
+        <div class="bc cf eu">Mar</div>
+        <div class="bc eu ev">Onwards</div>
+      </div><div class="ar er ew v">
+        <div class="al b bc cf ex ey">Road To Ultra India</div>
+        <div class="b bc ev ex ey ez">Multiple Venues</div>
+        <div class="ap bc ez">Music Shows</div>
+        <div class="bc ev ez">Rs. 2500 onwards </div>
+      </div>
+    </div>
   </div>
 </div>
-<!-- <div class="container">
-  <div class="row">
 
-    <div class="col-md-6 col-lg-6">
-      <div class="feature-block">
-        <img src="images/team/core.jpg" alt="img" class="img-fluid">
-        <div class="content">
-        <h4>Shreya Singh</h4>
-        <p>General Secretary</p>
+  <div class="column">
+    <div class="content" value="4">
+      <img src="images/team/core.jpg" alt="Mountains" style="width:100%">
+    <div class="ab ax c eo ep eq k v">
+      <div class="ar bi er es v">
+        <div class="bc et">7</div>
+        <div class="bc cf eu">Mar</div>
+        <div class="bc eu ev">Onwards</div>
       </div>
+      <div class="ar er ew v">
+        <div class="al b bc cf ex ey">Road To Ultra India</div>
+        <div class="b bc ev ex ey ez">Multiple Venues</div>
+        <div class="ap bc ez">Music Shows</div>
+        <div class="bc ev ez">Rs. 2500 onwards </div>
       </div>
     </div>
-
-    <div class="col-md-6 col-lg-6">
-      <div class="feature-block">
-        <img src="images/team/core.jpg" alt="img" class="img-fluid">
-        <div class="content">
-        <h4>Shreya Singh</h4>
-        <p>General Secretary</p>
-      </div>
-      </div>
-    </div>
-
-    <div class="col-md-6 col-lg-6">
-      <div class="feature-block">
-        <img src="images/team/core.jpg" alt="img" class="img-fluid">
-        <div class="content">
-        <h4>Shreya Singh</h4>
-        <p>General Secretary</p>
-      </div>
-      </div>
-    </div>
-
-    <div class="col-md-6 col-lg-6">
-      <div class="feature-block">
-        <img src="images/team/core.jpg" alt="img" class="img-fluid">
-        <div class="content">
-        <h4>Shreya Singh</h4>
-        <p>General Secretary</p>
-      </div>
-      </div>
-    </div>
-
-
-    <div class="col-md-6 col-lg-6">
-      <div class="feature-block">
-        <img src="images/team/core.jpg" alt="img" class="img-fluid">
-        <div class="content">
-        <h4>Shreya Singh</h4>
-        <p>General Secretary</p>
-      </div>
-      </div>
-    </div>
-    
-    <div class="col-md-6 col-lg-6">
-      <div class="feature-block">
-        <img src="images/team/core.jpg" alt="img" class="img-fluid">
-        <div class="content">
-        <h4>Shreya Singh</h4>
-        <p>General Secretary</p>
-      </div>
-      </div>
-    </div>
-
-    <div class="col-md-6 col-lg-6">
-      <div class="feature-block">
-        <img src="images/team/core.jpg" alt="img" class="img-fluid">
-        <div class="content">
-        <h4>Shreya Singh</h4>
-        <p>General Secretary</p>
-      </div>
-      </div>
-    </div>
-
-    <div class="col-md-6 col-lg-6">
-      <div class="feature-block">
-        <img src="images/team/core.jpg" alt="img" class="img-fluid">
-        <div class="content">
-        <h4>Shreya Singh</h4>
-        <p>General Secretary</p>
-      </div>
-      </div>
-    </div>
-
-    <div class="col-md-6 col-lg-6">
-      <div class="feature-block">
-        <img src="images/team/core.jpg" alt="img" class="img-fluid">
-        <div class="content">
-        <h4>Shreya Singh</h4>
-        <p>General Secretary</p>
-      </div>
-      </div>
-    </div>
-
   </div>
 </div>
- -->
+
+</div> -->
+
+</div>
 
 
-<br>
+  <div id="myModal" class="modal">
 
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p id="desc"></p>
+  </div>
 
-
-
-
-
+</div>
 
 
   
-<?php include 'footer.html';?>
+  
 
 
 
@@ -168,6 +136,125 @@
 </body>
 
 </html>
-
+<?php include 'footer.html';?>
 
 <script  src="./footer.js"></script>
+<script type="text/javascript">
+
+
+
+function openModal(id) {
+      var model = document.getElementById("myModal");
+      var span = document.getElementsByClassName("close")[0];
+
+      $.ajax({
+        url: "http://random6.xyz/StudentCouncil/getEventDataById.php",
+        method: "GET",
+        dataType: "JSON",
+        data:{
+          eventId: id
+        },
+        success: function(response) {
+          // let details = response["events"];
+          // let count = details.length;
+          var description = response.description;
+          console.log(description);
+          document.getElementById("desc").innerHTML = description;
+        }
+      });
+
+      // Displaying Modal on Popup
+      model.style.display = "block";
+
+      // Clicking anywhere on window will disappear the modal view
+      window.onclick = function(event) {
+        if (event.target == model) {
+          model.style.display = "none";
+        }
+      }
+
+      span.onclick = function() {
+        model.style.display = "none";
+      }
+}
+
+  document.addEventListener('DOMContentLoaded', function() {
+      $.ajax({
+        url: "http://random6.xyz/StudentCouncil/getEventData.php",
+        method: "GET",
+        dataType: "JSON",
+        data:{
+          toggle: "active"
+        },
+        success: function(response) {
+          let output = `
+          <div class="maindiv" >  
+          <div class="row">
+          `;
+          let details = response["events"];
+          let count = details.length;
+          if (count > 0) {
+            for (var i = 0; i < count; i++) {
+              var monthArray = [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+              ];
+              var id = details[i].id;
+              var name = details[i].name;
+              var image = details[i].image;
+              var description = details[i].description;
+              var days = details[i].days;
+              var date = details[i].date;
+              var time = details[i].time;
+              var venue = details[i].venue;
+              var price = details[i].price;
+              var participants = details[i].participants;
+              var datestr = new Date(date);
+              var month = monthArray[datestr.getMonth()];
+              var day = datestr.getDate();
+              var year = datestr.getFullYear();
+
+
+              output += `
+              <div class="column">
+              <div class="content" value="${id}" onclick="openModal(${id})">
+                <img src="${image}" alt="Mountains" style="width:100%;">
+              <div class="ab ax c eo ep eq k v">
+                <div class="ar bi er es v">
+                  <div class="bc et">${day}</div>
+                  <div class="bc cf eu">${month}</div>
+                  <div class="bc et">${year}</div>
+                  <div class="bc cf eu">${time}</div>
+                </div>
+                <div class="ar er ew v">
+                  <div class="al b abc cf ex ey">${name}</div>
+                  <div class="b bc ev ex ey ez">${venue}</div>
+                  <div class="ap bc ez">${price}</div>
+                  <div class="bc ev ez">${description}</div>
+                </div>
+              </div>
+            </div>
+          </div>
+            `;
+            }
+            output += `</div>
+                      </div>`;
+            document.getElementById("maindiv").innerHTML = output;
+          } else {
+            window.alert("No event entries found.");
+          }
+        }
+      });
+    });
+
+</script>
