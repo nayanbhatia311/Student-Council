@@ -15,6 +15,7 @@
 
 <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
 <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="./footer.css">
 
 
 
