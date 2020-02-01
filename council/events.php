@@ -5,7 +5,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   
   
-  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat:400,700'><link rel="stylesheet" href="./header.css">
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat:400,700'>
+  <link rel="stylesheet" href="./header.css">
 
   <link href='https://fonts.googleapis.com/css?family=Open+Sans|Oswald:300' rel='stylesheet' type='text/css'>
 

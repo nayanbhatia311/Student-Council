@@ -2,11 +2,11 @@
   box-sizing: border-box;
 }
 
-html, body {
+/* html, body {
   height: 100%;
-}
+} */
 
-body {
+.footerbody {
   font: 11px "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

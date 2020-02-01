@@ -26,10 +26,27 @@
     left: 50%;
     margin-left: -3px;
   }
-  .content{
+  .content-timeline{
   color:white;
   
   
+  }
+
+.timeline_h2 {
+  color:white;
+}
+
+  .timeline_images {
+     width:"100%" !important;
+     height:"30%" !important;
+     padding-top: 10px;
+     padding-right:10px;
+     padding-bottom:10px;
+     padding-left: 10px;
+  }
+
+  h5 {
+    color:white;
   }
   /* Container around content */
   .container-timeline {
@@ -97,7 +114,7 @@
   }
   
   /* The actual content */
-  .content {
+  .content-timeline {
     padding: 20px 30px;
     background-color: #474e5d;;
     position: relative;
@@ -132,7 +149,7 @@
     }
     
     /* Make all right containers behave like the left ones */
-    .right {
+    .right {  
     left: 0%;
     }
   }
