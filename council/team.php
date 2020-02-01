@@ -21,7 +21,7 @@
 
 <!-- Main Stylesheet File -->
 <link href="css/style.css" rel="stylesheet">
-<link rel="stylesheet" href="./footer.css">
+ 
 	</head>
 	<body class="landing is-preload">
 		<?php include 'header.html';?>
