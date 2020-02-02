@@ -49,7 +49,7 @@
 <div class="container">
   <div class="row">
 
-    <div class="col-md-12 col-lg-4">
+    <div class="col-md-6 col-lg-4">
       <div class="feature-block">
         <img src="images/team/shreyasingh.jpg" alt="img" class="img-fluid">
         <h4>Shreya Singh</h4>
@@ -57,7 +57,7 @@
       </div>
     </div>
 
-    <div class="col-md-12 col-lg-4">
+    <div class="col-md-6 col-lg-4">
       <div class="feature-block">
         <img src="images/team/vyombinani.jpg" alt="img" class="img-fluid">
         <h4>Vyom Binani</h4>
@@ -65,7 +65,7 @@
       </div>
     </div>
 
-    <div class="col-md-12 col-lg-4">
+    <div class="col-md-6 col-lg-4">
       <div class="feature-block">
         <img src="images/team/tanmaykotian.jpg" alt="img" class="img-fluid">
         <h4>Tanmay Kotian</h4>
@@ -73,7 +73,7 @@
       </div>
     </div>
 
-    <div class="col-md-12 col-lg-4">
+    <div class="col-md-6 col-lg-4">
       <div class="feature-block">
         <img src="images/team/deepshah.jpg" alt="img" class="img-fluid">
         <h4>Deep Shah</h4>
@@ -82,7 +82,7 @@
     </div>
 
 
-    <div class="col-md-12 col-lg-4">
+    <div class="col-md-6 col-lg-4">
       <div class="feature-block">
         <img src="images/team/tirteshkode.jpg" alt="img" class="img-fluid">
         <h4>Tirthesh Kode</h4>
@@ -90,7 +90,7 @@
       </div>
     </div>
     
-    <div class="col-md-12 col-lg-4">
+    <div class="col-md-6 col-lg-4">
       <div class="feature-block">
         <img src="images/team/AS.jpg" alt="img" class="img-fluid">
         <h4>Aarjav Sanghavi</h4>
@@ -98,7 +98,7 @@
       </div>
     </div>
 
-    <div class="col-md-12 col-lg-4">
+    <div class="col-md-6 col-lg-4">
       <div class="feature-block">
         <img src="images/team/swati.jpg" alt="img" class="img-fluid">
         <h4>Swati Saha</h4>
@@ -106,7 +106,7 @@
       </div>
     </div>
 
-    <div class="col-md-12 col-lg-4">
+    <div class="col-md-6 col-lg-4">
       <div class="feature-block">
         <img src="images/team/urmigori.jpg" alt="img" class="img-fluid">
         <h4>Urmi Gori</h4>
@@ -114,7 +114,7 @@
       </div>
     </div>
 
-    <div class="col-md-12 col-lg-4">
+    <div class="col-md-6 col-lg-4">
       <div class="feature-block">
         <img src="images/team/pradyaneshprabhakar.jpg" alt="img" class="img-fluid">
         <h4>Pradyanesh Parabkar</h4>
