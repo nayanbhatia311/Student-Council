@@ -51,7 +51,7 @@
 
     <div class="col-md-12 col-lg-4">
       <div class="feature-block">
-        <img src="img/" alt="img" class="img-fluid">
+        <img src="images/team/shreyasingh.jpg" alt="img" class="img-fluid">
         <h4>Shreya Singh</h4>
         <p>General Secretary</p>
       </div>
@@ -59,7 +59,7 @@
 
     <div class="col-md-12 col-lg-4">
       <div class="feature-block">
-        <img src="img/" alt="img" class="img-fluid">
+        <img src="images/team/vyombinani.jpg" alt="img" class="img-fluid">
         <h4>Vyom Binani</h4>
         <p>Joint General Secretary</p>
       </div>
@@ -67,7 +67,7 @@
 
     <div class="col-md-12 col-lg-4">
       <div class="feature-block">
-        <img src="img/" alt="img" class="img-fluid">
+        <img src="images/team/tanmaykotian.jpg" alt="img" class="img-fluid">
         <h4>Tanmay Kotian</h4>
         <p>Cultural Secretary</p>
       </div>
@@ -75,7 +75,7 @@
 
     <div class="col-md-12 col-lg-4">
       <div class="feature-block">
-        <img src="img/" alt="img" class="img-fluid">
+        <img src="images/team/deepshah.jpg" alt="img" class="img-fluid">
         <h4>Deep Shah</h4>
         <p>Sports Secretary</p>
       </div>
@@ -84,7 +84,7 @@
 
     <div class="col-md-12 col-lg-4">
       <div class="feature-block">
-        <img src="img/" alt="img" class="img-fluid">
+        <img src="images/team/tirteshkode.jpg" alt="img" class="img-fluid">
         <h4>Tirthesh Kode</h4>
         <p>Chief Executive Officer</p>
       </div>
@@ -92,7 +92,7 @@
     
     <div class="col-md-12 col-lg-4">
       <div class="feature-block">
-        <img src="img/" alt="img" class="img-fluid">
+        <img src="images/team/AS.jpg" alt="img" class="img-fluid">
         <h4>Aarjav Sanghavi</h4>
         <p>Treasurer</p>
       </div>
@@ -100,7 +100,7 @@
 
     <div class="col-md-12 col-lg-4">
       <div class="feature-block">
-        <img src="img/" alt="img" class="img-fluid">
+        <img src="images/team/swati.jpg" alt="img" class="img-fluid">
         <h4>Swati Saha</h4>
         <p>Public Relations Officer</p>
       </div>
@@ -108,7 +108,7 @@
 
     <div class="col-md-12 col-lg-4">
       <div class="feature-block">
-        <img src="img/" alt="img" class="img-fluid">
+        <img src="images/team/urmigori.jpg" alt="img" class="img-fluid">
         <h4>Urmi Gori</h4>
         <p>Ladies Representative</p>
       </div>
@@ -116,7 +116,7 @@
 
     <div class="col-md-12 col-lg-4">
       <div class="feature-block">
-        <img src="img/" alt="img" class="img-fluid">
+        <img src="images/team/pradyaneshprabhakar.jpg" alt="img" class="img-fluid">
         <h4>Pradyanesh Parabkar</h4>
         <p>NSS Head</p>
       </div>
