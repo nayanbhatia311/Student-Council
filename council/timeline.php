@@ -35,7 +35,7 @@
 <div class="timeline">
   <div class="container-timeline left">
     <div class="content-timeline">
-      <h2 class='timeline_h2'>STUDENT'S COUNCIL</h2>
+      <h2 class='timeline_h2'>STUDENTS' COUNCIL</h2>
       <img src='./images/about_us/studentcouncil.jpg' class="timeline_images" width="100%" height="30%">
       <h5>
 The Students' Council of K. J. Somaiya Institute of Engineering and Information Technology consists of students from every department of the college. They organise and execute various events throughout the year. They also are the mediator between faculty and the students, as they make sure that there is a continuous smooth relationship between the "two wheels" of the college. They host and arrange three festivals during the course of the year. In even semesters, they host Surge, the cultural festival and Score, the sports fest. In odd semesters, we have our technical fest, Renaissance. They strive to make all of the above festivals and events, memorable for every student and faculty. The Students' Council is of opinion that dreaming small is a crime. Every event organised during the academic year, should be the truest possible reflection of the essence regarding that event. They work together as a strong force to make Surge, the cultural fest of the college, Score, the sports fest of the college, and Renaissance, the technical fest of the college, the biggest celebration of every engineer's mind, talents and athletics; and every year they go closer to achieving that target.

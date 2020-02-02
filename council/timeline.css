@@ -3,10 +3,7 @@
     box-sizing: border-box;
   }
   
-  /* body {
-    background-color: white
-    font-family: Helvetica, sans-serif;
-  } */
+ 
   
   /* The actual timeline (the vertical ruler) */
   .timeline {
@@ -47,6 +44,9 @@
 
   h5 {
     color:white;
+    font-size: 14px;
+    font-weight: 400;
+
   }
   /* Container around content */
   .container-timeline {
