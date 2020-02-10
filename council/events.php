@@ -227,9 +227,9 @@ function openModal(id) {
 
 
               output += `
-              <div class="column">
+              <div class="column" col-md-4 col-sm-6>
               <div class="content" value="${id}" onclick="openModal(${id})">
-                <img src="${image}" alt="Mountains" style="width:100%;">
+                <img src="${image}" alt="pics" class='img-fluid'>
               <div class="ab ax c eo ep eq k v">
                 <div class="ar bi er es v">
                   <div class="bc et">${day}</div>
